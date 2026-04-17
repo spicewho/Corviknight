@@ -149,12 +149,6 @@ async function handleMessage(message) {
   const channel = message.guild.channels.cache.get(channelId);
   if (!channel) return;
 
-  /*
-  ─────────────────────────────────
-  Extract OT from embed
-  ─────────────────────────────────
-  */
-
   let otName = "Unknown";
 
   const footerText = embed.footer?.text;
@@ -166,12 +160,6 @@ async function handleMessage(message) {
     }
   }
 
-  /*
-  ─────────────────────────────────
-  Update counters
-  ─────────────────────────────────
-  */
-
   const counters = getGuildCounter(guildId);
 
   if (spawn.rarity === "Rare") incrementCounter(guildId, "Rare");
@@ -181,20 +169,8 @@ async function handleMessage(message) {
   if (spawn.rarity === "Event") incrementCounter(guildId, "Event");
   if (spawn.rarity === "Alpha") incrementCounter(guildId, "Alpha");
 
-  /*
-  ─────────────────────────────────
-  Create jump link
-  ─────────────────────────────────
-  */
-
   const jumpLink =
     `https://discord.com/channels/${guildId}/${message.channel.id}/${message.id}`;
-
-  /*
-  ─────────────────────────────────
-  Format timestamp
-  ─────────────────────────────────
-  */
 
   const now = new Date();
 
