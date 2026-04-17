@@ -1,0 +1,72 @@
+[
+  {
+    "name": "help",
+    "description": "An up-to-date help command",
+    "type": 1
+  },
+  {
+    "name": "invite",
+    "description": "An invite link only visible to you",
+    "type": 1
+  },
+  {
+    "name": "wtp timer",
+    "description": "Enable or disable your personal WTP timer pings",
+    "type": 1
+  },
+  {
+    "name": "collection list",
+    "description": "View your collection pings",
+    "type": 1
+  },
+  {
+    "name": "collection add",
+    "description": "Add a Pokemon to your collection",
+    "type": 1
+  },
+  {
+    "name": "collection remove",
+    "description": "Remove a Pokemon to your collection",
+    "type": 1
+  },
+  {
+    "name": "collection clear",
+    "description": "Wipe your collection list",
+    "type": 1
+  },
+  {
+    "name": "collection remove",
+    "description": "Remove a Pokemon to your collection",
+    "type": 1
+  },
+  {
+    "name": "config",
+    "description": "Edit your server's configuration if you have the Manage Messages permission.",
+    "type": 1
+  },
+  {
+    "name": "setup wtp",
+    "description": "Enable or disabler the WTP timer feature in your server",
+    "type": 1
+  },
+  {
+    "name": "setup starboard",
+    "description": "Enable or disable the Starboard(s)",
+    "type": 1
+  },
+  {
+    "name": "setup rarity",
+    "description": "Add a rare to be pinged when Rare, Regional, or Event Pokemon spawn",
+    "type": 1
+  },
+  {
+    "name": "setup collection ping",
+    "description": "Enable or disable user collection",
+    "type": 1
+  },
+  {
+    "name": "setup collection limit",
+    "description": "Set a limit for the amount of Pokemon your users can collect",
+    "type": 1
+  }
+]

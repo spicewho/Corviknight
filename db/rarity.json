@@ -1,0 +1,59 @@
+{
+  "Legendary": [
+    "Articuno","Zapdos","Moltres","Mewtwo",
+    "Raikou","Entei","Suicune","Lugia","Ho-Oh",
+    "Regirock","Regice","Registeel","Latias","Latios",
+    "Kyogre","Groudon","Rayquaza","Uxie","Mesprit",
+    "Azelf","Dialga","Palkia","Heatran","Regigigas",
+    "Giratina","Cresselia","Victini","Cobalion","Terrakion",
+    "Virizion","Tornadus","Thundurus","Reshiram","Zekrom",
+    "Landorus","Kyurem","Xerneas","Yveltal","Zygarde",
+    "Tapu Koko","Tapu Lele","Tapu Bulu","Tapu Fini",
+    "Solgaleo","Lunala","Necrozma","Wo-Chien","Chien-Pao",
+    "Ting-Lu","Chi-Yu","Koraidon","Miraidon","Okidogi",
+    "Munkidori","Fezandipiti", "Silvally", "Type:null", 
+    "Kubfu", "Urshifu", "Regieleki", "Regidrago", 
+    "Glastrier", "Spectrier", "Enamorus", "Ogerpon", 
+    "Terapagos", "Eternatus", "Zamazenta", "Zacian", 
+    "Cosmoem", "Cosmog", 
+    "Galarian Articuno", "Galarian Zapdos", "Galarian Moltres"
+  ],
+  "Mythical": [
+    "Mew","Celebi","Jirachi","Deoxys","Phione","Manaphy",
+    "Darkrai","Shaymin","Arceus","Keldeo","Meloetta","Genesect",
+    "Diancie","Hoopa","Volcanion","Magearna","Marshadow",
+    "Zeraora","Meltan","Melmetal","Zarude","Pecharunt"
+  ],
+  "Ultrabeast": [
+    "Nihilego", "Buzzwole", "Pheromosa", "Xurkitree", 
+    "Celesteela", "Kartana", "Guzzlord", "Poipole", 
+    "Naganadel", "Stakataka", "Blacephalon", "Calyrex"
+  ],
+  "Regionals": [
+    "Paldean Tauros (Combat)","Paldean Tauros (Blaze)",
+    "Paldean Tauros (Aqua)","Paldean Wooper", "Hisuian Growlithe",
+    "Hisuian Arcanine","Hisuian Voltorb","Hisuian Electrode",
+    "Hisuian Typhlosion","Hisuian Qwilfish","Hisuian Sneasel",
+    "Hisuian Samurott","Hisuian Lilligant","Hisuian Zorua",
+    "Hisuian Zoroark","Hisuian Braviary","Hisuian Sliggoo","Hisuian Goodra",
+    "Hisuian Avalugg", "Galarian Meowth","Galarian Ponyta",
+    "Galarian Rapidash", "Galarian Slowpoke","Galarian Slowbro","Galarian Slowking",
+    "Galarian Farfetchd","Sirfetchd","Galarian Weezing","Galarian Mr. Mime",
+    "Galarian Articuno","Galarian Zapdos","Galarian Moltres",
+    "Galarian Corsola","Galarian Zigzagoon","Galarian Linoone",
+    "Galarian Obstagoon","Galarian Darumaka","Galarian Darmanitan","Galarian Yamask",
+    "Galarian Stunfisk", "Alolan Rattata","Alolan Raticate","Alolan Raichu",
+    "Alolan Sandslash","Alolan Vulpix","Alolan Ninetales","Alolan Diglett",
+    "Alolan Dugtrio","Alolan Meowth","Alolan Persian","Alolan Geodude",
+    "Alolan Graveler","Alolan Golem","Alolan Grimer","Alolan Muk",
+    "Alolan Exeggutor","Alolan Marowak", "Alolan Sandshrew", "Hisuian Decidueye",
+    "Alolan Pikachu Cap"
+  ],
+    "Event": [
+    "Founder Tinkaton"
+  ],
+    "Paradox": [
+    "Iron Treads", "Iron Bundle", "Iron Hands", "Iron Jugulis", "Iron Moth", "Iron Thorns", "Iron Valiant", "Iron Leaves", "Iron Crown", "Iron Boulder",
+    "Great Tusk", "Scream Tail", "Brute Bonnet", "Flutter Mane", "Slither Wing", "Sandy Shocks", "Roaring Moon", "Walking Wake", "Raging Bolt", "Gouging Fire"
+  ]
+}
